@@ -12,3 +12,16 @@
 	Console.Write("]");
 }
 
+int SearchItems(string[] array)
+{
+	int count = 0;
+	for (int i = 0; i < array.Length; i++)
+	{
+		string strTemp = array[i];
+		if (strTemp.Length <= 3)
+		{
+			count++;
+		}
+	}
+	return count;
+}

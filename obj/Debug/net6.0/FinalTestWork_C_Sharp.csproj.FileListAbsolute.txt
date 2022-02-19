@@ -1,0 +1,15 @@
+/Users/pavelzagrebnev/Desktop/GB/Программирование С/FinalTestWork_C_Sharp/bin/Debug/net6.0/FinalTestWork_C_Sharp
+/Users/pavelzagrebnev/Desktop/GB/Программирование С/FinalTestWork_C_Sharp/bin/Debug/net6.0/FinalTestWork_C_Sharp.deps.json
+/Users/pavelzagrebnev/Desktop/GB/Программирование С/FinalTestWork_C_Sharp/bin/Debug/net6.0/FinalTestWork_C_Sharp.runtimeconfig.json
+/Users/pavelzagrebnev/Desktop/GB/Программирование С/FinalTestWork_C_Sharp/bin/Debug/net6.0/FinalTestWork_C_Sharp.dll
+/Users/pavelzagrebnev/Desktop/GB/Программирование С/FinalTestWork_C_Sharp/bin/Debug/net6.0/ref/FinalTestWork_C_Sharp.dll
+/Users/pavelzagrebnev/Desktop/GB/Программирование С/FinalTestWork_C_Sharp/bin/Debug/net6.0/FinalTestWork_C_Sharp.pdb
+/Users/pavelzagrebnev/Desktop/GB/Программирование С/FinalTestWork_C_Sharp/obj/Debug/net6.0/FinalTestWork_C_Sharp.csproj.AssemblyReference.cache
+/Users/pavelzagrebnev/Desktop/GB/Программирование С/FinalTestWork_C_Sharp/obj/Debug/net6.0/FinalTestWork_C_Sharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavelzagrebnev/Desktop/GB/Программирование С/FinalTestWork_C_Sharp/obj/Debug/net6.0/FinalTestWork_C_Sharp.AssemblyInfoInputs.cache
+/Users/pavelzagrebnev/Desktop/GB/Программирование С/FinalTestWork_C_Sharp/obj/Debug/net6.0/FinalTestWork_C_Sharp.AssemblyInfo.cs
+/Users/pavelzagrebnev/Desktop/GB/Программирование С/FinalTestWork_C_Sharp/obj/Debug/net6.0/FinalTestWork_C_Sharp.csproj.CoreCompileInputs.cache
+/Users/pavelzagrebnev/Desktop/GB/Программирование С/FinalTestWork_C_Sharp/obj/Debug/net6.0/FinalTestWork_C_Sharp.dll
+/Users/pavelzagrebnev/Desktop/GB/Программирование С/FinalTestWork_C_Sharp/obj/Debug/net6.0/ref/FinalTestWork_C_Sharp.dll
+/Users/pavelzagrebnev/Desktop/GB/Программирование С/FinalTestWork_C_Sharp/obj/Debug/net6.0/FinalTestWork_C_Sharp.pdb
+/Users/pavelzagrebnev/Desktop/GB/Программирование С/FinalTestWork_C_Sharp/obj/Debug/net6.0/FinalTestWork_C_Sharp.genruntimeconfig.cache

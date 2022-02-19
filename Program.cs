@@ -46,3 +46,10 @@ void FillArraySelectedItemsAndPrint(string[] array)
 	}
 	Console.Write("]");
 }
+
+string[] stringArray = { "hello", "25", "Russia", "-2", "world", ":-", "dog", "1345", "947" };
+PrintArray(stringArray);
+Console.Write("  ->  ");
+FillArraySelectedItemsAndPrint(stringArray);
+Console.WriteLine();
+

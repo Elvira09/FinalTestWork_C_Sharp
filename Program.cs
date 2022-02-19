@@ -25,3 +25,24 @@ int SearchItems(string[] array)
 	}
 	return count;
 }
+
+void FillArraySelectedItemsAndPrint(string[] array)
+{
+	string[] newArray = new string [array.Length];
+	Console.Write("[");
+	for (int i = 0; i < array.Length; i++)
+	{
+		string strTemp = array[i];
+		int j = SearchItems(array) - 1;
+		if (strTemp.Length <= 3)
+		{
+			newArray[j] = array[i];
+			Console.Write($"\"{newArray[j]}\"");
+			if (i != array.Length - 1)
+			{
+				Console.Write(", ");
+			}
+		}
+	}
+	Console.Write("]");
+}
